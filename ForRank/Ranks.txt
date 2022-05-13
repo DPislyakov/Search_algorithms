@@ -1,0 +1,4 @@
+https://www.apple.com,100
+https://samsung.com,75
+https://www.mi.com,75
+https://www.toyota.com,10
